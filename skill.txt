@@ -1,0 +1,7 @@
+Postman
+SQL
+Terminal
+Jmetr
+Gitbash
+Github
+JSON
